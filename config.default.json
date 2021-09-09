@@ -1,0 +1,14 @@
+{
+    "ProxyType": "socks4",
+    "AutoUpdate": true,
+    "ComboPath":  "./combo.txt",
+    "ProxyPath": "./proxies.txt",
+    "UseProxy": false,
+    "Cooldown": 0,
+    "UseWebHook": false,
+    "WebHook": "https://discordapp.com/api/webhooks/WEBHOOK_ID/WEBHOOK_TOKEN",
+    "Options": {
+      "RetryBad": true,
+      "RetryBadNum": 3
+    }
+  }
